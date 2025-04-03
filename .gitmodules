@@ -1,0 +1,4 @@
+[submodule "HDLearning/test-pandas"]
+	path = HDLearning/test-pandas
+	url = git@github.com:HDLearning/test-pandas.git
+	branch = main
